@@ -7,9 +7,9 @@ import (
 	"fmt"
 
 	"ariga.io/atlas-go-sdk/recordriver"
+	"github.com/glebarez/sqlite"
 	"gorm.io/driver/mysql"
 	"gorm.io/driver/postgres"
-	"gorm.io/driver/sqlite"
 	"gorm.io/gorm"
 	gormig "gorm.io/gorm/migrator"
 )

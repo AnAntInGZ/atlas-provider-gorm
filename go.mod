@@ -11,7 +11,7 @@ require (
 	golang.org/x/tools v0.10.0
 	gorm.io/driver/mysql v1.5.1
 	gorm.io/driver/postgres v1.5.2
-	gorm.io/driver/sqlite v1.5.2
+	github.com/glebarez/sqlite v1.9.0
 	gorm.io/gorm v1.25.2-0.20230530020048-26663ab9bf55
 )
 
